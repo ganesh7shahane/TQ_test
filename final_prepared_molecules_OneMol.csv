@@ -1,2 +1,0 @@
-SMILES_Prepared,Molecule_Prepared,SMILES,CatalogID,MW,LOGP,Rotating_bonds,HB_acceptors,HB_donors,index_ID,fp_similarity,aligned_mol,RMSD
-C[C@H](Nc1nc(Nc2ccccc2)c2[nH]cnc2n1)C1=NO[C@H]2COC[C@@H]12,<rdkit.Chem.rdchem.Mol object at 0x1648e61f0>,CC(Nc1nc(Nc2ccccc2)c2[nH]cnc2n1)C1=NO[C@H]2COC[C@@H]12,m_27____16810052____10803818,365.4,2.342684741,5,8,3,287,0.31666666666666700,<rdkit.Chem.rdchem.Mol object at 0x175236f10>,5.439164277493730

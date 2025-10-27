@@ -1,5 +1,5 @@
     source leaprc.protein.ff14SB
-    mol = loadpdb input_HID.pdb
-    savepdb mol output_HID.pdb
+    mol = loadpdb vina_protein_prep_files/input_HID.pdb
+    savepdb mol vina_protein_prep_files/output_HID.pdb
     quit
     
