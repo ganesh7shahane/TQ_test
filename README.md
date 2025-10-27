@@ -51,7 +51,7 @@ For managing large-scale CADD (Computer-Aided Drug Design) workflow, integrating
 
 - Cloud infrastructure (AWS Batch, Google Cloud Life Sciences, or on-prem clusters with SLURM) is often leveraged for horizontal scaling. These allow you to scale compute resources according to demand and process hundreds or thousands of docking, simulation, or scoring jobs in parallel.
 
-- Use workflow management systems such as Apache Airflow for orchestrating and scheduling large numbers of jobs. These tools can distribute tasks over multiple nodes and handle dependencies, failures, and retries automatically.
+- Use workflow management systems such as Apache Airflow or SnakeMake for orchestrating and scheduling large numbers of jobs. These tools can distribute tasks over multiple nodes and handle dependencies, failures, and retries automatically.
 
 - Implement structured logging throughout all workflow components—for example, using Python’s `logging` library with JSON output to enable easier parsing and aggregation of logs from multiple processes.
 
