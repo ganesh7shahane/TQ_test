@@ -42,6 +42,15 @@ The following is the summary of top molecules prioritised for synthesis:
 | 236 |  733 | CCOC(CNc1nc(Nc2ccccc2)c2[nH]cnc2n1)C1CCOC1                  | s_27____17757172____10803818 |                       -9.017 | 0.334 | 2.23532 |           3 | 368.4 |
 | 280 |   87 | CO[C@H]1[C@H](Nc2nc(Nc3ccccc3)c3[nH]cnc3n2)COC1(C)C         | m_27____18799958____10803818 |                       -9.104 | 0.35  | 2.39816 |           3 | 354.4 |
 
+
 ## Managing scaling, logging and results tracking for large-scale CADD workflows
 
---To be Updated--
+For managing large-scale CADD (Computer-Aided Drug Design) workflow, integrating proven tools and best practices from data engineering, informatics, and workflow automation is critical. Here’s how it’s typically accomplished:
+
+- Cloud infrastructure (AWS Batch, Google Cloud Life Sciences, or on-prem clusters with SLURM) is often leveraged for horizontal scaling. These allow you to scale compute resources according to demand and process hundreds or thousands of docking, simulation, or scoring jobs in parallel.
+
+- Use workflow management systems such as Apache Airflow for orchestrating and scheduling large numbers of jobs. These tools can distribute tasks over multiple nodes and handle dependencies, failures, and retries automatically.
+
+- Implement structured logging throughout all workflow components—for example, using Python’s `logging` library with JSON output to enable easier parsing and aggregation of logs from multiple processes.
+
+- Use database-backed result tracking for CADD output (e.g., compound activities, free energy results, docking scores). Relational databases (PostgreSQL, MySQL), NoSQL stores (MongoDB), or specialized workflow metadata tools (MLflow, Weights & Biases) can capture run configurations, job statuses, and results for later analysis, comparison, and provenance.
