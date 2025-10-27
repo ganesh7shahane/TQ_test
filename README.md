@@ -2,11 +2,11 @@ This repository contains the solution to TerraQuantum's (TQ) assignment.
 
 ## Installation
 
-First download the repository:
+First, download the repository:
 
 ```git clone https://github.com/ganesh7shahane/TQ_test.git```
 
-Second, create the enviroment:
+Second, create the environment:
 
 ```conda env create -f environment.yaml```
 
