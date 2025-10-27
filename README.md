@@ -16,9 +16,9 @@ Second, create the enviroment:
 
 - The solution is distributed in 5 different jupyter notebooks, each with the preferred order of prefixes: '1_', '2_', '3_'...
 
-- 5 difference notebooks were made and not just one for ease of organisation and presenting it to interviewers.
+- 5 notebooks were made and not just one for ease of organisation and presenting it to interviewers.
 
-- Open each in VS code (or directly through the terminal), and simply press "▶️Run All" in the order of the prefixes: first notebook to run will be `1_Purchasable_compounds.ipynb`, next one will be `2_PrepareProtein.ipynb` and so on.
+- Open each in VS code (or directly through the terminal), and simply press "▶️Run All" for each of the notebooks: first notebook to run should be `1_Purchasable_compounds.ipynb`, next one should be `2_PrepareProtein.ipynb` and so on.
 
 ## Summary table
 The following is the summary of top molecules prioritised for synthesis:
