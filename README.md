@@ -4,11 +4,11 @@ This repository contains the solution to TerraQuantum's (TQ) assignment.
 
 First download the repository:
 
-`git clone https://github.com/ganesh7shahane/TQ_test.git`
+```git clone https://github.com/ganesh7shahane/TQ_test.git```
 
 Second, create the enviroment:
 
-`conda env create -f environment.yaml`
+```conda env create -f environment.yaml```
 
 ## Getting started
 
