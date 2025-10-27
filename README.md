@@ -54,3 +54,11 @@ For managing large-scale CADD (Computer-Aided Drug Design) workflow, integrating
 - Implement structured logging throughout all workflow components—for example, using Python’s `logging` library with JSON output to enable easier parsing and aggregation of logs from multiple processes.
 
 - Use database-backed result tracking for CADD output (e.g., compound activities, free energy results, docking scores). Relational databases (PostgreSQL, MySQL), NoSQL stores (MongoDB), or specialized workflow metadata tools (MLflow, Weights & Biases) can capture run configurations, job statuses, and results for later analysis, comparison, and provenance.
+
+
+## List of AI tools used for the assignment
+... and how I worked with them:
+
+- ChatGPT 5.0 was used extensively to write the code. It helped me write majority of the helper functions contained in the notebooks. Perplexity and Gemini were used to a minor extent.
+  
+- Github co-pilot was used for automatic completions of scripts for visualisation and analysing molecules.
