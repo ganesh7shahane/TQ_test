@@ -18,7 +18,7 @@ AutoDock Vina v1.2.5
 #################################################################
 
 Scoring function : vina
-Rigid receptor: final_1h1q_protein.pdbqt
+Rigid receptor: vina_protein_prep_files/final_1h1q_protein.pdbqt
 Ligand: vina_docking_files_for_300ligands/ligand_735.pdbqt
 Grid center: X 6.145 Y 44.176 Z 50.828
 Grid size  : X 15.75 Y 15.75 Z 15.75
@@ -28,7 +28,7 @@ CPU: 0
 Verbosity: 1
 
 Computing Vina grid ... done.
-Performing docking (random seed: -918183515) ... 
+Performing docking (random seed: -1231556619) ... 
 0%   10   20   30   40   50   60   70   80   90   100%
 |----|----|----|----|----|----|----|----|----|----|
 ***************************************************
@@ -36,12 +36,12 @@ Performing docking (random seed: -918183515) ...
 mode |   affinity | dist from best mode
      | (kcal/mol) | rmsd l.b.| rmsd u.b.
 -----+------------+----------+----------
-   1       -9.241          0          0
-   2        -9.24     0.8791      1.408
-   3       -8.899      1.669      3.716
-   4       -8.833      3.011      6.046
-   5       -8.768       2.08      3.705
-   6       -8.755      2.933       7.67
-   7       -8.652      2.192      5.904
-   8       -8.436      2.221      6.147
-   9       -8.434      2.214      4.539
+   1       -9.582          0          0
+   2       -9.234      2.718      5.908
+   3       -9.189      1.784      3.836
+   4        -9.15      2.622      7.713
+   5       -9.046      2.181      4.338
+   6       -9.033      2.126      5.827
+   7       -8.953      1.023      1.997
+   8       -8.794      2.216      6.244
+   9       -8.733      2.331       4.89

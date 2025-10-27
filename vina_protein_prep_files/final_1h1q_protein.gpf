@@ -2,7 +2,7 @@ parameter_file boron-silicon-atom_par.dat
 npts 42 42 42
 gridfld final_1h1q_protein.maps.fld
 spacing 0.375
-receptor_types H SA NA C OA HD A N
+receptor_types NA H HD C OA A N SA
 ligand_types HD C A N NA OA F P SA S Cl CL Br BR I Si B
 receptor vina_protein_prep_files/final_1h1q_protein.pdbqt
 gridcenter 6.145 44.176 50.828
