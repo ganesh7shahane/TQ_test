@@ -3,6 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - python=3.12
   - _python_abi3_support=1.0
   - ambertools=24.8
   - anyio=4.11.0
