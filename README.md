@@ -8,7 +8,10 @@ First, download the repository:
 
 Second, create the environment:
 
-```conda env create -f environment.yaml```
+```conda env create -f environment.yaml
+
+conda activate TQ_test
+```
 
 ## Getting started
 
