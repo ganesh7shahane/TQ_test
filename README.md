@@ -12,7 +12,7 @@ Second, create the enviroment:
 
 ## Getting started
 
-A high level summary is contained in [High_Level_Summary.pdf](https://github.com/ganesh7shahane/TQ_test/blob/main/High%20Level%20Summary.pdf) as requested.
+A high level summary is contained in [High_Level_Summary.pdf](https://github.com/ganesh7shahane/TQ_test/blob/main/High_Level_Summary.pdf) as requested.
 
 ## Reproducing the solution
 
