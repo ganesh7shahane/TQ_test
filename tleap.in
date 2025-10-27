@@ -1,0 +1,5 @@
+    source leaprc.protein.ff14SB
+    mol = loadpdb input_HID.pdb
+    savepdb mol output_HID.pdb
+    quit
+    

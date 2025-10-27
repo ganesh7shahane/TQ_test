@@ -1,0 +1,10 @@
+{
+    "jupyter.output.renderers": [
+  "html",
+  "javascript",
+  "markdown",
+  "png",
+  "jpeg"
+]
+
+}
