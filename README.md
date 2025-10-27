@@ -12,12 +12,11 @@ Second, create the enviroment:
 
 ## Getting started
 
-A high level summary is contained in [High_Level_Summary.pdf](https://github.com/ganesh7shahane/TQ_test/blob/main/High_Level_Summary.pdf) as requested.
+- A high level summary is contained in [High_Level_Summary.pdf](https://github.com/ganesh7shahane/TQ_test/blob/main/High_Level_Summary.pdf) as requested.
 
-## Reproducing the solution
+- The solution are distributed in 5 difference jupyter notebooks, each with the preferred order of prefixes: '1_', '2_', '3_'...
 
-The solution are distributed in 5 difference jupyter notebooks, each with the preferred order of prefixes: '1_', '2_', '3_'...
-Open each in VS code (or directly through the terminal), and simply press "▶️Run All"
+- Open each in VS code (or directly through the terminal), and simply press "▶️Run All"
 
 ## Summary table
 The following is the summary of top molecules prioritised for synthesis:
