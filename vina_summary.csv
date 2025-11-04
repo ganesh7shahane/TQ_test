@@ -107,7 +107,7 @@ ligand_314,-8.815,vina_docking_output/ligand_314_out.pdbqt,vina_docking_output/l
 ligand_318,-7.874,vina_docking_output/ligand_318_out.pdbqt,vina_docking_output/ligand_318.log,True
 ligand_320,-9.007,vina_docking_output/ligand_320_out.pdbqt,vina_docking_output/ligand_320.log,True
 ligand_322,-9.414,vina_docking_output/ligand_322_out.pdbqt,vina_docking_output/ligand_322.log,True
-ligand_323,-9.424,vina_docking_output/ligand_323_out.pdbqt,vina_docking_output/ligand_323.log,True
+ligand_323,v424,vina_docking_output/ligand_323_out.pdbqt,vina_docking_output/ligand_323.log,True
 ligand_324,-9.138,vina_docking_output/ligand_324_out.pdbqt,vina_docking_output/ligand_324.log,True
 ligand_328,-8.841,vina_docking_output/ligand_328_out.pdbqt,vina_docking_output/ligand_328.log,True
 ligand_33,-9.619,vina_docking_output/ligand_33_out.pdbqt,vina_docking_output/ligand_33.log,True
